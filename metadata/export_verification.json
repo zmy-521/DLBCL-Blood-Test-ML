@@ -1,0 +1,8 @@
+{
+  "ordered_features_equal_to_frozen_metadata": true,
+  "feature_count": 13,
+  "cutoff_equal_to_packet": true,
+  "synthetic_predictions_equal_to_source_pipeline": true,
+  "source_model_sha256": "9eb29b2ae42e24abc013d83e6008c4906f6194c3f386e8f23e7d7e18cfb5f9eb",
+  "export_model_sha256": "0d73d17ca4375ac03ed7348d98f431d43b36fe84b88aaadc443dd90759300ab5"
+}

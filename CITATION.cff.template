@@ -1,0 +1,10 @@
+# DRAFT: add verified authors before renaming this file to CITATION.cff.
+# authors:
+#   - family-names: <verified family name>
+#     given-names: <verified given name>
+cff-version: 1.2.0
+message: "Software companion working title only; the rights holder must add verified authors and the final manuscript citation before publication."
+title: "DLBCL-versus-healthy-control discrimination: frozen revision-v2 reproducibility companion"
+type: software
+version: "revision-v2-local-review"
+abstract: "Trained RF13, source-based analysis code, predictor definitions, and synthetic inference example. No clinical records are included."

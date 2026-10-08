@@ -1,0 +1,26 @@
+{
+  "source": "Frozen revision v2, seed 20261007",
+  "source_sha256": {
+    "modeling.py": "e55d071234a277cc70bc027ecfc1d40d34e82f774761ef318475e173ffd380a5",
+    "evaluate.py": "761bf18efb3c952b5c0e2e361b0aa1192de73894476cfbe700c7b141d1ff4479",
+    "tables.py": "56ab1cc6180544049a8312c906ce86649c830dd8ce10778b7f404ee1ed72263c",
+    "figures.py": "7f973da6ab7fa97e9c49d43bc6b09a4af9d11f880e460cd5370e829376744b5f",
+    "packet.py": "18163b47323c67ad0344eafdbcf77f0981ad9cf615c00637165f3893e1b3e628",
+    "build_episodes.py": "61c6053804949afa9e4b59324337904ebb4deaf056a7d30978d1c3d365fa3370",
+    "reconstruct.py": "7eb745d29ba348ee0342fc9ddfa4f2a8fca1c4def86879a791f7509c909fe1a6",
+    "prepare_analysis.py": "af9c30ca6b82c45c59c72062f03b69d259c7d83db8fc4fdfc0e5369a8e6f8052"
+  },
+  "changes": [
+    "repository-relative runtime paths",
+    "public feature-order metadata",
+    "grouping field renamed group_key",
+    "sex input encoded M/F",
+    "figure import guard",
+    "input validation before training/external inference",
+    "generic-key identity utility adapted from reconstruct.py; normalized source interface documented",
+    "public preprocessing starts at custodian-approved panels or existing analysis tables, not private hospital exports",
+    "Word supplementary tables extracted from packet.py",
+    "explicit UTF-8 reads"
+  ],
+  "analysis_retrained_for_release": false
+}
